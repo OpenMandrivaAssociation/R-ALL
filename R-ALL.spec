@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.4.11
-Release:          1
+Release:          2
 Summary:          A data package
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
